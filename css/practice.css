@@ -1,0 +1,8 @@
+#box{
+	height: 500px;
+	width:500px; 
+	border:5px solid #000;
+	box-shadow: 0 0 3px #000;
+	padding-left: 20%;
+}
+.label{color: black; font-size: 15px; text-shadow: 0 0 0 3px #000}
